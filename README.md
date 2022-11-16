@@ -14,8 +14,7 @@ N. (*) Ćwiczenie do wykonania.
 ```
 
   
- `Zadania do wykonania`
-
+ `Zadania do wykonania`  
   
 Zadanie 1. `` `(*)` ` ` Zmień miejscami ćwiczenia których treść kończy się znakami ` (+)` (numeracja powinna pozostać poprawna).  
 Zadanie 2. `` `(*)` `` Zmień numerowanie w tym pliku tak, aby numeracja zaczynała się od 1.  
@@ -26,6 +25,6 @@ Zadanie 6. `` `(*)` ` ` Zmień miejscami ćwiczenia których treść kończy si�
 Zadanie 7. `` `(*)` ` ` Dodaj słowa ` Zadania do wykonania` przed listą ćwiczeń.  
 Zadanie 8. `` `(*)` ` ` Zmień nagłówek z ` git-intro ` na ` Wstęp do gita`. (-)  
 
-138041 - Jakub Baran
-138141 - Piotr Szkaradek
-128081 - Wiktoria Krakowian
+138041 - Jakub Baran  
+138141 - Piotr Szkaradek  
+128081 - Wiktoria Krakowian  
